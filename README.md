@@ -3,6 +3,6 @@ W.I.P
 
 Changes:
 
--Gold slimes no longer flee.
+-Gold slimes don't flee.
 
--Jetpack no longer cost energy.
+-Jetpack doesn't cost energy.
