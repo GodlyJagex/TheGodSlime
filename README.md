@@ -5,4 +5,4 @@ Changes:
 
 -Gold slimes don't flee.
 
--Jetpack doesn't cost energy.
+-Jetpack doesn't use energy.
