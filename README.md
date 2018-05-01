@@ -1,4 +1,4 @@
-# TheGodlyRancher
+# The Godly Rancher
 W.I.P
 
 Changes:
