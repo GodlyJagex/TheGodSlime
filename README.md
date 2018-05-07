@@ -5,4 +5,6 @@ Changes:
 
 -Gold slimes don't flee.
 
+-Lucky slimes don't flee.
+
 -Jetpack doesn't use energy.
