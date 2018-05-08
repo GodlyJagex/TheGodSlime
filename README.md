@@ -8,3 +8,5 @@ Changes:
 -Lucky slimes don't flee.
 
 -Jetpack doesn't use energy.
+
+-Sprinting doesn't use energy.
