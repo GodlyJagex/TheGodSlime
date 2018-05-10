@@ -10,3 +10,5 @@ Changes:
 -Jetpack doesn't use energy.
 
 -Sprinting doesn't use energy.
+
+-Players no longer take radiation.
