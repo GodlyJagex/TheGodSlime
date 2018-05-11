@@ -12,3 +12,5 @@ Changes:
 -Sprinting doesn't use energy.
 
 -Players no longer take radiation.
+
+-Coop capacity doubled.
