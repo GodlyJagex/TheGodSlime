@@ -1,5 +1,5 @@
 # The Godly Rancher
-How to install:
+How to install: 
 
 Step 1: Download Assembly-CSharp.dll
 
