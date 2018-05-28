@@ -10,9 +10,13 @@ Step 3: in your slime rancher folder open the "SlimeRancher_Data" folder then op
 
 Step 4: Drag the Assembly-CSharp.dll file into the managed folder and replace the old one
 
+-----
+
 How to uninstall: (steam only)
 
 Step 1: Verify integrity of game files
+
+-----
 
 Game Version: 1.2.2
 
