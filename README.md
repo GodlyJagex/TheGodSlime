@@ -1,6 +1,8 @@
 # The Godly Rancher
 W.I.P
 
+Game Version: 1.2.2
+
 Changes:
 
 -Gold slimes don't flee.
