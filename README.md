@@ -33,3 +33,5 @@ Changes:
 -Players no longer take radiation.
 
 -Coop capacity doubled.
+
+-Slimes and fashion pods can be stored in silos.
