@@ -35,3 +35,5 @@ Changes:
 -Coop capacity doubled.
 
 -Slimes and fashion pods can be stored in silos.
+
+-Players inventory is no longer emptied on death.
